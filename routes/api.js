@@ -1,5 +1,4 @@
 const router = require("express").Router();
-const { findByIdAndDelete } = require("../models/workout");
 const Workout = require("../models/workout");
 
 router.post("/api/workouts", (req, res) => {
