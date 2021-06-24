@@ -12,13 +12,10 @@ app.use(express.static("public"));
 
 
 mongoose.connect(
-    process.env.MONGODB_URI || "mongodb://localhost/workout", {
+    process.env.MONGODB_URI || 'mongodb://localhost/workout', {
     useNewUrlParser: true,
-    useUnifiedTopology: true,
-    useCreateIndex: true,
     useFindAndModify: false
-}
-);
+});
 
 app.use(require("./routes/api.js"));
 app.use(require("./routes/view.js"));
