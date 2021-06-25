@@ -49,7 +49,7 @@
 * Email: r.a.lacer@hotmail.com
 
 ### Link
-Walk Through Demo Video: https://youtu.be/dg2RPEX-zgc 
+Heroku Deployment: https://limitless-mountain-74106.herokuapp.com/
 
 ## Screenshot
 ![screenshot](images/hw18homepg.png)
