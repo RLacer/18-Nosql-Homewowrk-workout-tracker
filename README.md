@@ -13,7 +13,7 @@
  * [Contributors](#contributors)
  * [Contact](#contact)
  * [Link](#link)
- * [Screenshot](#screenshot)
+ * [Screenshots](#screenshots)
  
 ## License
     
@@ -23,7 +23,7 @@
  * This app allows the user to view, create and track daily workouts.
  * The user can add exercises to the most recent workout plan.
  * The user can add new exercises to a workout plan.
- * The user can access a stats page to review weight and duration of the last 7 workouts.
+ * The user can access a stats page to review weight and duration of the last 5 workouts.
  
  ## Usage:
  * Track and update workouts
@@ -33,7 +33,7 @@
  
  
  ## Installation:
- * There is currently no installation available and must be accessed via heroku.
+ * There is currently no installation available and must be accessed via heroku, visit the  link in the link  section of this readme file.
  
  ### Author:
   Rebecca Lacer 
@@ -51,7 +51,7 @@
 ### Link
 Heroku Deployment: https://limitless-mountain-74106.herokuapp.com/
 
-## Screenshot
+## Screenshots
 ![screenshot](images/hw18homepg.png)
 ![screenshot](images/hw18stats.png)
 
