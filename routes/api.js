@@ -40,8 +40,8 @@ router.get("/api/workouts", (req, res) => {
             }
         }
     ])
-    .then((dbworkouts) => {
-        res.json(dbworkouts)
+    .then((dbworkout) => {
+        res.json(dbworkout)
     })
     .catch(err => {
         res.json(err)
